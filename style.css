@@ -1,0 +1,17 @@
+.hero {
+
+	position: relative;
+	overflow: hidden;
+	min-height: 100vh;
+	
+}
+
+
+.video-bg{
+	position: absolute;
+	z-index: -1;
+	top: 0;
+	left: 0;
+	min-width: 100%;
+	min-height: 100%;
+}
